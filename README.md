@@ -1,6 +1,8 @@
 # Pankaj-Play-Store-App-Review-EDA-Dashboard-Tableau
 Capstone Project: Play Store App Review EDA Dashboard Tableau
 
+**Project Link: (https://public.tableau.com/app/profile/pankaj.kapoor5384/viz/PlayStoreAppReviewAnalysisEDADashboard/GooglePlayStoreEDADashboard)
+**
 
 The DataViz Challenge is a comprehensive data visualization project designed to assess participants' data analysis, dashboard creation, and presentation skills. In this challenge, participants will leverage a dataset of their choice, which they previously analyzed during an Exploratory Data Analysis (EDA) project in Python.
 
